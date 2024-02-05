@@ -1,0 +1,20 @@
+﻿R E A D M E
+-----------
+
+Airlocks require at least 3 blocks to function - an inner door, an outer door, and an air vent.
+Buttons are, strictly speaking, optional; this script will work fine being triggered from a cockpit or a timer.
+
+This script uses block names to detect and assign airlock blocks! These names are as follows:
+<AIRLOCK NAME> Inner Door
+<AIRLOCK NAME> Outer Door
+<AIRLOCK NAME> Vent
+<AIRLOCK NAME> Panel (you can prefix 'Panel' with any other words, also)
+
+Note that this script will only control airlocks on this grid or its subassemblies!
+It will not attempt to control airlocks in ships docked via connectors.
+
+To trigger this script to cycle an airlock, simply pass it the argument 'cycle <AIRLOCK NAME>'.
+The airlock name does not have to be case-sensitive in the passed argument.
+
+Additionally, this script will pick up any air vent called 'Air Intake' and treat it as an external pressure reference.
+If the detected external pressure is safe, the script will allow both ends of any airlocks to be open at once.

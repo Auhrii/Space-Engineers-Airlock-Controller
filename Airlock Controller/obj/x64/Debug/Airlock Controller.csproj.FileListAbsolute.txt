@@ -1,0 +1,25 @@
+C:\Users\Violet\source\repos\Airlock Controller\Airlock Controller\bin\MDK\MDK.options.props
+C:\Users\Violet\source\repos\Airlock Controller\Airlock Controller\bin\MDK\MDK.paths.props
+C:\Users\Violet\source\repos\Airlock Controller\Airlock Controller\bin\Airlock Controller.exe.config
+C:\Users\Violet\source\repos\Airlock Controller\Airlock Controller\bin\Airlock Controller.exe
+C:\Users\Violet\source\repos\Airlock Controller\Airlock Controller\bin\Airlock Controller.pdb
+C:\Users\Violet\source\repos\Airlock Controller\Airlock Controller\bin\MDKUtilities.dll
+C:\Users\Violet\source\repos\Airlock Controller\Airlock Controller\bin\VRage.Network.dll
+C:\Users\Violet\source\repos\Airlock Controller\Airlock Controller\bin\HavokWrapper.dll
+C:\Users\Violet\source\repos\Airlock Controller\Airlock Controller\bin\ProtoBuf.Net.Core.dll
+C:\Users\Violet\source\repos\Airlock Controller\Airlock Controller\bin\System.Memory.dll
+C:\Users\Violet\source\repos\Airlock Controller\Airlock Controller\bin\VRage.NativeWrapper.dll
+C:\Users\Violet\source\repos\Airlock Controller\Airlock Controller\bin\System.Buffers.dll
+C:\Users\Violet\source\repos\Airlock Controller\Airlock Controller\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Violet\source\repos\Airlock Controller\Airlock Controller\bin\SixLabors.ImageSharp.dll
+C:\Users\Violet\source\repos\Airlock Controller\Airlock Controller\bin\SixLabors.Core.dll
+C:\Users\Violet\source\repos\Airlock Controller\Airlock Controller\bin\System.Numerics.Vectors.dll
+C:\Users\Violet\source\repos\Airlock Controller\Airlock Controller\bin\SixLabors.ImageSharp.xml
+C:\Users\Violet\source\repos\Airlock Controller\Airlock Controller\bin\SixLabors.Core.xml
+C:\Users\Violet\source\repos\Airlock Controller\Airlock Controller\obj\x64\Debug\Airlock Controller.csproj.AssemblyReference.cache
+C:\Users\Violet\source\repos\Airlock Controller\Airlock Controller\obj\x64\Debug\Airlock Controller.csproj.SuggestedBindingRedirects.cache
+C:\Users\Violet\source\repos\Airlock Controller\Airlock Controller\obj\x64\Debug\Airlock Controller.exe.config
+C:\Users\Violet\source\repos\Airlock Controller\Airlock Controller\obj\x64\Debug\Airlock Controller.csproj.CoreCompileInputs.cache
+C:\Users\Violet\source\repos\Airlock Controller\Airlock Controller\obj\x64\Debug\Airlock Controller.csproj.CopyComplete
+C:\Users\Violet\source\repos\Airlock Controller\Airlock Controller\obj\x64\Debug\Airlock Controller.exe
+C:\Users\Violet\source\repos\Airlock Controller\Airlock Controller\obj\x64\Debug\Airlock Controller.pdb
