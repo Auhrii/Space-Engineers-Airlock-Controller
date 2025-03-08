@@ -3,7 +3,7 @@ This is a fairly straightforward airlock controller for the game Space Engineers
 Setup requires that you rename the critical blocks that make up each airlock according to the following naming scheme:
 - Doors: '\<Airlock Name> Inner Door' for internal-facing doors, and '\<Airlock Name> Outer Door' for external-facing doors.
 - Vents: '\<Airlock Name> Vent' for the airlock vents, and include 'Intake' in any vents you wish to use to check the external environment.
-- Button panels: So long as the airlock's name and 'Panel' are included in the name, they'll be assigned to their respective airlocks.
+- Button panels: So long as the airlock's name and 'Panel' are included in the name, they'll be assigned to their respective airlocks. Please note that the first available screen on these panels will display the airlock status.
 
 As an example, say you have an airlock on the port side of your ship. Let's call it 'Port'. You'd have the following blocks at a minimum:
 - Doors: 'Port Inner Door', 'Port Outer Door'
